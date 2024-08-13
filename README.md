@@ -21,6 +21,6 @@ Estou começando minha jornada no mundo da programação e estou empolgado em cr
 - Tecnologias de Cloud Computing
 
 📫 **Como me encontrar:**
-- **E-mail:** [seu-email@example.com](mailto:yangclima@gmail.com)
+- **E-mail:** [yangclima@gmail.com](mailto:yangclima@gmail.com)
 
 Se você está interessado em meus projetos ou quer trocar ideias sobre tecnologia, fique à vontade para me contatar. Vamos conectar e aprender juntos!
