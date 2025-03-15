@@ -2,7 +2,7 @@
 
 🚀 **Desenvolvedor em Formação** 
 
-Estou começando minha jornada no mundo da programação e estou empolgado em criar soluções inovadoras para problemas reais. Meu primeiro projeto sério é o **EducaHub**, uma plataforma de gerenciamento educacional projetada para transformar a administração escolar e melhorar a comunicação entre alunos, professores e pais.
+Estou começando minha jornada no mundo da programação e estou empolgado em criar soluções inovadoras para problemas reais.
 
 🔧 **Tecnologias que estou explorando:**
 - **Frontend:** React, Vue.js
